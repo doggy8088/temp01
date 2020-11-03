@@ -3,8 +3,6 @@ Bootstrap_Metro_Dashboard
 
 A Metro Style Dashboard Template with Twitter Bootstrap
 
-Demo: http://jiji262.github.io/Bootstrap_Metro_Dashboard/
-
 **NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/jiji262) to keep you update with this template.
 
 Description
@@ -40,13 +38,13 @@ The jQuery plugins used in this project
     jquery.ui.touch-punch.js
     jquery.uniform.min.js
     jquery.uploadify-3.1.min.js
-    
+
 The following js libraries are also used:
----------------------------  
+---------------------------
     modernizr.js
-    
+
 http://modernizr.com/
-    
+
     retina.js
-    
+
 http://retinajs.com
