@@ -3,7 +3,7 @@ Bootstrap_Metro_Dashboard
 
 A Metro Style Dashboard Template with Twitter Bootstrap
 
-Description ##
+Description
 ----------------------------
 This template is based on Twitter bootstrap and metro-bootstrap style, jQuery 1.9.1 and jQuery UI are used.
 
